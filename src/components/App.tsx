@@ -9,7 +9,7 @@ function App() {
       <Header/>
       <form className={styles.createTask}>
         <input type="text" placeholder="Adicione uma nova tarefa" />
-        <button>Criar <PlusCircle size={16} /></button>
+        <button>Criar <PlusCircle size={20} /></button>
       </form>
 
     </div>
