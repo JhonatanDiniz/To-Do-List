@@ -12,8 +12,8 @@ Este é um projeto de um aplicativo de lista de tarefas desenvolvido em React co
 
 1. Clone este repositório
 2. Instale as dependências usando `npm install`
-3. Execute o aplicativo usando `npm start`
-4. Acesse o aplicativo em `http://localhost:3000`
+3. Execute o aplicativo usando `npm run dev`
+4. Acesse o aplicativo em `http://localhost:5173`
 
 ## Tecnologias utilizadas
 
