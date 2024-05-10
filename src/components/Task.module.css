@@ -1,0 +1,41 @@
+.task{
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--gray-500);
+    margin-top: 1rem;
+    border-radius: 8px;
+    padding: 1rem;
+    color: var(--gray-100);
+    font-size: 0.875rem;
+}
+
+.taskDescriptions{
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.taskDescriptions > button{
+    background-color: transparent;
+    border: none;
+}
+
+.checked{
+    color: var(--purple);
+    cursor: pointer;
+}
+
+.unchecked{
+    color: var(--blue);
+    cursor: pointer;
+}
+
+.trash{
+    color: var(--danger);
+    cursor: pointer;
+}
+
+.textDescriptionCompleted{
+    color: var(--gray-300);
+    text-decoration: line-through;
+}

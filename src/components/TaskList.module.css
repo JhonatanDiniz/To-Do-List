@@ -1,0 +1,22 @@
+.container{
+    width: 46rem;
+    margin: 4rem auto;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 0.75rem;
+}
+
+.created{
+    color: var(--blue);
+    font-size: 0.875rem;
+    font-weight: bold;
+}
+
+.finished{
+    color: var(--purple);
+    font-size: 0.875rem;
+    font-weight: bold;
+}
