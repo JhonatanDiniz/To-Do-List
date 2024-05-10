@@ -1,8 +1,8 @@
 import styles from './App.module.css'
-import { Header } from "./Header"
+import { Header } from "./components/Header"
 
 import { PlusCircle } from '@phosphor-icons/react'
-import { TaskList } from './TaskList'
+import { TaskList } from './components/TaskList'
 import { ChangeEvent, FormEvent, useState } from 'react'
 
 
